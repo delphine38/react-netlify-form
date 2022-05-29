@@ -18,7 +18,7 @@ function ContactForm() {
          
             <textarea name="message" placeholder='Votre message'></textarea>
          
-            <button type="submit">Envoyer</button>
+            <button type="submit" className='btn btn-primary'>Envoyer</button>
          
         </form>
     </div>

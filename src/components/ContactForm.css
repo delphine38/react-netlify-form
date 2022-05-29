@@ -18,3 +18,9 @@
 .contact_form button {
     font-size: 1.2rem;
 }
+
+input {
+    border: none;
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
